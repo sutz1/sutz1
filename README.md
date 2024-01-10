@@ -6,7 +6,9 @@ I've been into coding for around 2 years and have just completed a temporary pos
 * 🌍  I'm based in Arlington, VA
 * ✉️  You can contact me at [samuel.richard.utz@gmail.com](mailto:samuel.richard.utz@gmail.com)
 * 🚀  I'm currently working on [A lightweight and interactive weather widget](http://github.com/sutz1/weather-widget)
-* 🧠  I'm learning Full Stack Development on Codecademy and also Data Structures and Algorithms with TypeScript.* 🤝  I'm open to collaborating on any projects you'll have me on!* ⚡  I'm super into video games and Magic: The Gathering
+* 🧠  I'm learning Full Stack Development on Codecademy and also Data Structures and Algorithms with TypeScript.
+* 🤝  I'm open to collaborating on any projects you'll have me on!
+* ⚡  I'm super into video games and Magic: The Gathering
 
 ### Skills
 
