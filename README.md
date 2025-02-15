@@ -34,8 +34,4 @@ I’m a software engineer with nearly two years of experience, having worked at 
 
 ### Support Me
 
-<ul style="list-style-type: none; margin: 0;">
-
 <a href="https://www.buymeacoffee.com/samuel.utz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
-
-</ul>
