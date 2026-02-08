@@ -6,10 +6,10 @@ Software Engineer & AWS Administrator
 
 I’m a software engineer with nearly two years of experience, having worked at both Amazon and State Farm. I specialize in Python, Java, TypeScript, and Terraform, and have extensive AWS knowledge, particularly in administration. I’m passionate about cloud architecture, automation, and building scalable solutions.
 
-* 🌍  I'm based in Arlington, VA
+* 🌍  I'm based in Raleigh, NC
 * ✉️  You can contact me at [hello@samuel-utz.com](mailto:hello@samuel-utz.com)
 * 🧠  I'm learning I'm currently studying for my AWS Cloud Practitioner Certification, AWS AI Practitioner Certification, and AWS Developer Associate Certification.
-* 🤝  I'm open to collaborating on I'm open to collaborating on any projects you'll have me on!
+* 🤝  I'm open to collaboration! Get in touch if there's something I can assist with.
 * ⚡  I'm super into video games, Magic: The Gathering, and pickleball!
 
 ### Skills
